@@ -64,5 +64,5 @@
     <string name="no_results">No results returned. Try again later</string>
     <string name="content">Failed to retrieve all content. Check connection or try again later</string>
     <string name="fav_error">Favorites coming soon :D</string>
-    <string name="api_key">d198b9364d579a80e0ecd6f5725b88f4</string>
+    <string name="api_key">"Your API key Here"</string>
 </resources>
