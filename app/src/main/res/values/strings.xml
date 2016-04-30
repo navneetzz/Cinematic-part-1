@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Cinematic</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="close">Close</string>
+    <string name="refresh">Refresh</string>
+    <string name="share">Share</string>
+
+    <string name="action_about">About</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="desc1">Cinematic application developed as part of the Udacity Android Developer Nanodegree programme</string>
+    <string name="desc2">Developed by Navneet Sharma</string>
+    <string name="desc3">Powered by The Movie Database</string>
+    <string name="desc4">Icon</string>
+    <string name="nav_sec">Powered by TMDB</string>
+    <string name="credits">More</string>
+    <string name="intro">Replay Intro</string>
+    <string name="site">Website</string>
+    <string name="git">GitHub</string>
+    <string name="gplus">Google+</string>
+
+    <string name="pop">Most Popular</string>
+    <string name="high">Top Rated</string>
+    <string name="fav">Favorites (coming soon)</string>
+    <string name="up">Upcoming</string>
+    <string name="now">Playing now</string>
+
+    <string name="details">Details</string>
+    <string name="sorting">Sorting</string>
+    <string name="intro1">This app suggests movies for you to watch</string>
+    <string name="intro2">Tap a movie poster on the grid view to open detailed view including synopsis, ratings, reviews and trailers</string>
+    <string name="intro3">Use the navigation drawer to select sorting criteria</string>
+    <string name="intro4">Open the details for a movie and tap the Floating Action Button to add to Favorites. Favorites are stored offline!</string>
+
+    <string name="head_general">Miscellaneous settings</string>
+    <string name="anim_setting">Enable animations</string>
+    <string name="anim_def">Disabling this might improve performance</string>
+    <string name="head_thumb">Thumbnail options</string>
+    <string name="res_thumb">Thumbnail quality:</string>
+    <string name="head_detail">Details view options</string>
+    <string name="res_bg">Backdrop resolution:</string>
+    <string name="res_def">Default is medium</string>
+    <string name="low_res">Low</string>
+    <string name="med_res">Medium</string>
+    <string name="hi_res">High</string>
+    <string name="max_res">Maximum</string>
+    <string name="bg_toggle">Enable backdrop</string>
+    <string name="def_bgtoggle">Show backdrop in details view</string>
+    <string name="palette_toggle">Enable dynamic coloring</string>
+    <string name="def_palettetoggle">Automatically extracts and applies colors from the poster to the details screen</string>
+    <string name="sdk_low">Requires Android 5.0+</string>
+
+    <string name="synopsis">Synopsis</string>
+    <string name="release">Release date</string>
+    <string name="rating">Rating</string>
+    <string name="trailer">Trailers</string>
+    <string name="review">Reviews</string>
+
+    <string name="network">Unable to fetch content from server. Please check your connection or try again later</string>
+    <string name="refresh_error">Failed to  refresh content from server. Check your network status</string>
+    <string name="no_results">No results returned. Try again later</string>
+    <string name="content">Failed to retrieve all content. Check connection or try again later</string>
+    <string name="fav_error">Favorites coming soon :D</string>
+    <string name="api_key">d198b9364d579a80e0ecd6f5725b88f4</string>
+</resources>
