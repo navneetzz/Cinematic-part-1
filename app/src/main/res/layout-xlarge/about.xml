@@ -59,17 +59,6 @@
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginRight="@dimen/horizontal_margin_half"
-                android:id="@+id/introBtn"
-                style="@style/Button"
-                android:layout_below="@id/desc1"
-                android:layout_toLeftOf="@id/credits"
-                android:layout_marginBottom="8dp"
-                android:text="@string/intro"
-                android:onClick="intro" />
-            <Button
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
                 style="@style/Button"
                 android:id="@+id/credits"
                 android:layout_below="@id/desc1"
@@ -92,20 +81,7 @@
         app:cardUseCompatPadding="true"
         app:cardElevation="@dimen/elevation"
         app:cardBackgroundColor="@color/cardview_dark_background"
-        android:foreground="?android:attr/selectableItemBackground">
-        <RelativeLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content">
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/desc2"
-            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
-            android:layout_margin="16dp"
-            android:text="@string/desc2"/>
-
-        </RelativeLayout>
-    </android.support.v7.widget.CardView>
+        android:foreground="?android:attr/selectableItemBackground"></android.support.v7.widget.CardView>
 
         </RelativeLayout>
 
